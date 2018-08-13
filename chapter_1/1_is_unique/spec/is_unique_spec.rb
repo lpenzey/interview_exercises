@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require 'is_unique'
 
 describe IsUnique do
