@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'fibonacci_calculator'
 
 describe FibonacciCalculator do
